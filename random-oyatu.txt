@@ -1,0 +1,4 @@
+import random
+oyatu = ["キャンディー", "クッキー", "アイス", "クレープ", "駄菓子", "ポテチ", "チョコ", "ドーナツ", "ゼリー"]
+input("今日のおやつを決める")
+print(random.choice(oyatu))
